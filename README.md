@@ -1,3 +1,3 @@
 # PmcmFL
 
-We will release the source code if the paper is accepted.
+We will release the source code if this paper is accepted.
