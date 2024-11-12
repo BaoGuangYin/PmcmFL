@@ -8,6 +8,6 @@
 
 [2024.10] This paper was desk-rejected by TKDE.
 
-[2024.11] Open source, even if it is still under review. ( https://github.com/Noirebao/Multimodal_Federated )
+[2024.11] Open source. ( https://github.com/Noirebao/Multimodal_Federated )
 
 
